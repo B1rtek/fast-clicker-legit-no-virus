@@ -1,2 +1,2 @@
-# fast-clicker-legit-no-virus
-A compact auto clicker.
+# FastClickerLegitNoVirus (TM)
+A compact auto clicker. Only for Windows. Compile with MSVC compiler.
